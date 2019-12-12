@@ -1,3 +1,3 @@
 # project
 
-A new Flutter project.
+There will be updates in the future
